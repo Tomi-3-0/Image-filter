@@ -13,25 +13,29 @@ Where IMAGE.bmp is the name of an image file and REFLECTED.bmp is the name given
 -----
 What does it even mean to filter an image? You can think of filtering an image as taking the pixels of some original image, and modifying each pixel in such a way that a particular effect is apparent in the resulting image.
 
+##### Original image
+
+![original](https://github.com/Tomi-3-0/Image-filter/blob/main/images/original.bmp)
+
 #### Grayscale
 One common filter is the “grayscale” filter, where we take an image and want to convert it to black-and-white
 
-![Grayscale]()
+![Grayscale](https://github.com/Tomi-3-0/Image-filter/blob/main/filtered/grayscale.bmp)
 
 #### Reflection
 Some filters might also move pixels around. Reflecting an image, for example, is a filter where the resulting image is what you would get by placing the original image in front of a mirror. So any pixels on the left side of the image should end up on the right, and vice versa.
 
-![Reflection]()
+![Reflection](https://github.com/Tomi-3-0/Image-filter/blob/main/filtered/reflect.bmp)
 
 #### Blur
 The effect of blurring or softening an image.
 
-![Blur]()
+![Blur](https://github.com/Tomi-3-0/Image-filter/blob/main/filtered/blur.bmp)
 
 #### Edges
 In artificial intelligence algorithms for image processing, it is often useful to detect edges in an image:Highlights the lines in the image that create a boundary between one object and another.
 
-![Edges]()
+![Edges](https://github.com/Tomi-3-0/Image-filter/blob/main/filtered/edges.bmp)
 
 ### Specifications
 
